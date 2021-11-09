@@ -1,0 +1,20 @@
+//TodoTemplate.scss
+.TodoTemplate {
+  widows: 512px;
+  margin: 6rem auto;
+  border-radius: 4px;
+  overflow: hidden;
+  .app-title {
+    background: #22b8cf;
+    color: #fff;
+    height: 4rem;
+    font-size: 1.5rem;
+    //27px
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .content {
+    background: #fff;
+  }
+}
